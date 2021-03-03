@@ -1,6 +1,6 @@
 {
   "Scout": {
-    "title": "string",
-    "views": "int"
+    "error": "int",
+    "data": "string"
   }
 }
